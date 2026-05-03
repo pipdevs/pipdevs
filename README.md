@@ -1,16 +1,66 @@
-## Hi there 👋
+# 👋 Hey, I'm pipdevs
 
-<!--
-**pipdevs/pipdevs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Developer | 🎮 Creator | 📊 Tech Enthusiast
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I build projects at the intersection of **software, education, and productivity**, with a focus on clean design and real-world impact.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 About Me
+
+- 💻 Working with **Next.js, React, Tailwind CSS**
+- 📈 Interested in **fintech, automation & educational platforms**
+- 🎓 Background in **a lot**
+- 🏢 Currently working in 
+
+---
+
+## 🔧 Tech Stack
+
+**Frontend**
+- React / Next.js
+- Tailwind CSS
+- TypeScript
+
+**Backend / Tools**
+- Node.js
+- Firebase / Supabase (learning & experimenting)
+- Stripe (payments integration)
+
+**Other**
+- Git & GitHub
+- Python (data & automation)
+- Excel / financial modelling
+
+---
+
+## 🚧 Current Projects
+
+- 🎓 **Project 1**  
+  Explain.
+
+- 🛒 **Project 2**  
+  Explain.
+
+- 🎥 **Project 3**  
+  Automating.
+
+---
+
+## 📊 GitHub Stats
+
+![pipdevs's GitHub stats](https://github-readme-stats.vercel.app/api?username=pipdevs&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pipdevs&layout=compact&theme=tokyonight)
+
+---
+
+## 🌐 Connect With Me
+
+- 💼 LinkedIn: (add your link)
+- 🌍 Portfolio: (coming soon)
+- 📧 Email: (add your email)
+
+---
+
+⭐️ Thanks for stopping by — feel free to check out my repos and drop a star if you like something!
