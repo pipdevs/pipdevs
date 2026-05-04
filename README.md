@@ -12,7 +12,6 @@ I build things end-to-end — from product idea to deployed app. My focus is cle
 - 🔭 Currently building a **GTO poker trainer** in Expo
 - ⚙️ Automating everything I can with **n8n + LLMs**
 - 🧠 Self-hosting models locally via **Ollama**
-- 📡 Running **DevJobsScanner** — a job aggregation platform
 
 ---
 
