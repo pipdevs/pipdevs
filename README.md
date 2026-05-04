@@ -5,9 +5,9 @@
 
 ---
 
-### About
+### Intro
 
-I build things end-to-end — from product idea to deployed app. My focus is clean architecture, AI-assisted workflows, and tools that actually get used.
+I build things end-to-end - from product idea to deployed app. My focus is clean architecture, AI-assisted workflows, and tools that actually get used.
 
 - 🔭 Currently building a **GTO poker trainer** in Expo
 - ⚙️ Automating everything I can with **n8n + LLMs**
